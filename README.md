@@ -1,4 +1,4 @@
-# Takhribchi
+# Mine-Sweeper
 
 Minesweeper game written in C
 
