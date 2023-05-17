@@ -16,7 +16,7 @@ Snapshots:
 ![photo_2023-05-17_04-41-18](https://github.com/Kebabist/Mine-Sweeper/assets/83098161/1ba2bb66-bba5-49cd-ac19-2435f0297ff4)
 
 4. Lose event:
- ![photo_2023-05-17_04-41-13](https://github.com/Kebabist/Mine-Sweeper/assets/83098161/d2a250ce-47bd-4eed-a1a4-f23560f3526f)
+![photo_2023-05-17_04-41-13](https://github.com/Kebabist/Mine-Sweeper/assets/83098161/d2a250ce-47bd-4eed-a1a4-f23560f3526f)
  
  5. Win event:
 ![photo_2023-05-17_04-48-41](https://github.com/Kebabist/Mine-Sweeper/assets/83098161/22b4a608-5a90-4593-896b-6e000fbfe76a)
