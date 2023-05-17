@@ -10,7 +10,7 @@ Snapshots:
 ![photo_2023-05-17_04-42-56](https://github.com/Kebabist/Mine-Sweeper/assets/83098161/b201b64e-e129-4617-b4ac-6971d2d79ac9)
 
 2.Main Menu:
-![image](https://github.com/Kebabist/Mine-Sweeper/assets/83098161/87ea0278-c742-4882-a602-d0d4cc27bc6c)
+![photo_2023-05-17_04-50-46](https://github.com/Kebabist/Mine-Sweeper/assets/83098161/59057d05-abc3-4973-a6ef-be8065703fe7)
 
 3.MineField:
 ![photo_2023-05-17_04-41-18](https://github.com/Kebabist/Mine-Sweeper/assets/83098161/1ba2bb66-bba5-49cd-ac19-2435f0297ff4)
