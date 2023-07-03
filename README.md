@@ -2,8 +2,29 @@
 
 Minesweeper game written in C
 
-the Logics of the game is not  writen by me completely and there are Snippets of others code present in this program. the File handling is not completely implemented and needs some better hands to work on them.
+the Logics of the game is not  writen completely by me and there are Snippets of other people's code present in this program. the File handling is not completely implemented and needs more work.
 for the program to correctly print and run you need to enable Unicodes on your system and run your console in fullscreen.
+
+Enabling Unicode support can vary depending on the operating system and software being used. Here are some general steps to enable Unicode on different systems:
+
+Windows:
+1. Go to the Control Panel and select "Region and Language".
+2. Click on the "Administrative" tab.
+3. Under "Language for non-Unicode programs", click on the "Change system locale" button.
+4. Select the desired language from the list and click "OK".
+5. Restart your computer to apply the changes.
+
+Mac:
+1. Go to "System Preferences" and select "Language & Region".
+2. Click on the "Keyboard Preferences" button.
+3. Select the "Input Sources" tab.
+4. Check the box next to the desired language input source.
+5. You can switch between input sources by clicking on the language icon in the menu bar.
+
+Linux:
+1. Install the desired Unicode fonts and input methods for your distribution. This can be done through your package manager.
+2. Configure your input method settings through your desktop environment's settings menu.
+3. Configure your terminal emulator to use a Unicode-compatible font.
 
 Snapshots:
 
